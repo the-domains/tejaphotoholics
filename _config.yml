@@ -1,17 +1,17 @@
-typography_spectrum: 0.7285824629943818
+layout_spectrum: 0.7859869328080354
+typography_spectrum: 0.376801264750135
 color:
-  lightness: 0.6439540271283951
+  lightness: 0.4303736986580425
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.2960886380858926
-  brandStrength: 0.9726317087124642
-  rhythmicContrast: 0.4917775714983646
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  saturation: 0.49091317382705685
+  brandStrength: 0.2392098309686131
+  rhythmicContrast: 0.9270435599778954
 github: true
-layout_spectrum: 0.0069138118997216225
 name: TejaPhotoholics
 navigation:
   - name: Travel Diaries
