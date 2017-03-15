@@ -10,6 +10,7 @@ color:
   saturation: 0.2960886380858926
   brandStrength: 0.9726317087124642
   rhythmicContrast: 0.4917775714983646
+github: true
 layout_spectrum: 0.0069138118997216225
 name: TejaPhotoholics
 navigation:
@@ -18,6 +19,9 @@ navigation:
     type: content
   - name: Wedding Moments
     id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
+    type: content
+  - name: Life around me
+    id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
     type: content
 title: Teja Photoholics
 content:
@@ -52,4 +56,3 @@ purpose:
   - type: contact
     url: 'tel:9704006608'
     label: Call Us
-github: true
