@@ -1,0 +1,55 @@
+typography_spectrum: 0.7285824629943818
+color:
+  lightness: 0.6439540271283951
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.2960886380858926
+  brandStrength: 0.9726317087124642
+  rhythmicContrast: 0.4917775714983646
+layout_spectrum: 0.0069138118997216225
+name: TejaPhotoholics
+navigation:
+  - name: Travel Diaries
+    id: dc284739-50df-408c-8208-764c8123a64b
+    type: content
+  - name: Wedding Moments
+    id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
+    type: content
+title: Teja Photoholics
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf2f341-fc8d-46cd-adfc-8cc3941e498f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf2f341-fc8d-46cd-adfc-8cc3941e498f.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Photography is a reality so subtle that it becomes more real than reality.  ―
+  Alfred Stieglitz
+purpose:
+  - type: contact
+    url: 'tel:9704006608'
+    label: Call Us
+github: true
