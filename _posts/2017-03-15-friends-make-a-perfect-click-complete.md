@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Friends make a perfect click complete
-dateModified: '2017-03-15T02:12:05.038Z'
-datePublished: '2017-03-15T02:12:05.440Z'
+dateModified: '2017-03-15T02:13:12.191Z'
+datePublished: '2017-03-15T02:13:12.547Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-friends-make-a-perfect-click-complete.md
 starred: false
 datePublishedOriginal: '2017-03-15T02:12:05.440Z'
-sourcePath: _posts/2017-03-15-friends-make-a-perfect-click-complete.md
 url: friends-make-a-perfect-click-complete/index.html
 _type: Article
 
