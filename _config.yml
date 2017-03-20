@@ -1,29 +1,32 @@
-layout_spectrum: 0.7859869328080354
-typography_spectrum: 0.376801264750135
-color:
-  lightness: 0.4303736986580425
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-  saturation: 0.49091317382705685
-  brandStrength: 0.2392098309686131
-  rhythmicContrast: 0.9270435599778954
-github: true
 name: TejaPhotoholics
-navigation:
-  - name: Travel Diaries
-    id: dc284739-50df-408c-8208-764c8123a64b
-    type: content
-  - name: Wedding Moments
-    id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
-    type: content
-  - name: Life around me
-    id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
-    type: content
-title: Teja Photoholics
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:9704006608'
+    label: Call Us
+  - type: external
+    url: 'https://www.facebook.com/tejamamidiphotography/'
+    label: Visit us on facebook
+github: true
+description: >-
+  Photography is a reality so subtle that it becomes more real than reality.  ―
+  Alfred Stieglitz
+author:
+  name: Teja Mamidi
+  url: 'http://teamtejaphotoholics.com/'
+  email: g.vijaysudheer@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -33,34 +36,47 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf2f341-fc8d-46cd-adfc-8cc3941e498f.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: >-
-  Photography is a reality so subtle that it becomes more real than reality.  ―
-  Alfred Stieglitz
-purpose:
-  - type: contact
-    url: 'tel:9704006608'
-    label: Call Us
-  - type: external
-    url: 'https://www.facebook.com/tejamamidiphotography/'
-    label: Visit us on facebook
+navigation:
+  - id: dc284739-50df-408c-8208-764c8123a64b
+    name: Travel Diaries
+    type: content
+  - id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
+    name: Wedding Moments
+    type: content
+  - id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
+    name: Life around me
+    type: content
+layout_spectrum: 0.7859869328080354
+color:
+  lightness: 0.4303736986580425
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  saturation: 0.4909131738270568
+  brandStrength: 0.2392098309686131
+  rhythmicContrast: 0.9270435599778954
+content_rating:
+  adult: false
+typography_spectrum: 0.376801264750135
+opengraph: {}
+title: Teja Photoholics
 url: 'http://teamtejaphotoholics.com/'
-author:
-  name: Teja Mamidi
-  email: g.vijaysudheer@gmail.com
-  url: 'http://teamtejaphotoholics.com/'
