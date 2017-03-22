@@ -27,35 +27,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: article
-    html: >-
-      <article><h1>DJI_0021.MP4</h1><img
-      src="https://lh6.googleusercontent.com/1caQmjKBwUTYktJMPPqUxZ7sJY1t1UQqW9z4mtgrUyYku85G4z85LA=w1200-h630-p"></article>
-    src: >-
-      https://lh6.googleusercontent.com/1caQmjKBwUTYktJMPPqUxZ7sJY1t1UQqW9z4mtgrUyYku85G4z85LA=w1200-h630-p
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://drive.google.com'
-        name: Google Drive
-        favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_video_favicon.ico'
-        domain: drive.google.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://drive.google.com/file/d/0BwrYOQai2uj0Qmk0TU91ektMM2s/view?usp=sharing
-      title: DJI_0021.MP4
-      datePublished: null
-    title: DJI_0021.MP4
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
   - name: Travel Diaries
     id: dc284739-50df-408c-8208-764c8123a64b
