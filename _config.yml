@@ -12,7 +12,7 @@ description: >-
   Photography is a reality so subtle that it becomes more real than reality.  ―
   Alfred Stieglitz
 author:
-  name: Teja Mamidi
+  name: Team Teja-Photoholics
   url: 'http://teamtejaphotoholics.com/'
   email: g.vijaysudheer@gmail.com
 collections:
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,7 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf2f341-fc8d-46cd-adfc-8cc3941e498f.jpg
     metadata:
       author: []
-      '@context': 'http://schema.org'
+      datePublished: null
       keywords: []
       '@type': MediaObject
       publisher:
@@ -48,7 +48,7 @@ content:
       app_links: []
       related: []
       description: ''
-      datePublished: null
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
