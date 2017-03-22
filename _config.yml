@@ -12,7 +12,7 @@ description: >-
   Photography is a reality so subtle that it becomes more real than reality.  ―
   Alfred Stieglitz
 author:
-  name: ' © 2017 Team Teja-Photoholics. | Maintained by Vijay Sudheer'
+  name: ' © 2017 Team Teja-Photoholics. | Maintained by Teja Mamidi & Vijay Sudheer'
   url: 'http://teamtejaphotoholics.com/'
   email: g.vijaysudheer@gmail.com
 collections:
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,31 +37,30 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/181cda0c-e85d-4fed-ae69-fe5511398d1c.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: Travel Diaries
-    id: dc284739-50df-408c-8208-764c8123a64b
+  - id: dc284739-50df-408c-8208-764c8123a64b
+    name: Travel Diaries
     type: content
-  - name: Wedding Moments
-    id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
+  - id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
+    name: Wedding Moments
     type: content
-  - name: Life around me
-    id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
+  - id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
+    name: Life around me
     type: content
 layout_spectrum: 0.7859869328080354
 color:
