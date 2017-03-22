@@ -27,40 +27,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/181cda0c-e85d-4fed-ae69-fe5511398d1c.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/181cda0c-e85d-4fed-ae69-fe5511398d1c.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
-  - id: dc284739-50df-408c-8208-764c8123a64b
-    name: Travel Diaries
+  - name: Travel Diaries
+    id: dc284739-50df-408c-8208-764c8123a64b
     type: content
-  - id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
-    name: Wedding Moments
+  - name: Wedding Moments
+    id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
     type: content
-  - id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
-    name: Life around me
+  - name: Life around me
+    id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
     type: content
 layout_spectrum: 0.7859869328080354
 color:
