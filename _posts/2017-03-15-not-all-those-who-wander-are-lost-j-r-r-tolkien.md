@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: “Not all those who wander are lost.” — J. R. R. Tolkien
-dateModified: '2017-03-27T16:03:25.396Z'
-datePublished: '2017-03-27T16:03:26.285Z'
-title: ''
+dateModified: '2017-03-27T16:06:57.914Z'
+datePublished: '2017-03-27T16:06:58.426Z'
+title: On a rainy afternoon
 author: []
 publisher: {}
 via: {}
