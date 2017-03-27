@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: “Not all those who wander are lost.” — J. R. R. Tolkien
-dateModified: '2017-03-27T15:49:20.542Z'
-datePublished: '2017-03-27T15:49:21.603Z'
+dateModified: '2017-03-27T16:03:25.396Z'
+datePublished: '2017-03-27T16:03:26.285Z'
 title: ''
 author: []
 publisher: {}
@@ -15,6 +15,7 @@ url: not-all-those-who-wander-are-lost-j-r-r-tolkien/index.html
 _type: Article
 
 ---
+![While others watch it rain.. I feel it.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59df9333-ea73-4dec-acd9-a461c93208be.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e140dba-119e-4d7f-af5e-e30a2f26bf2a.jpg)
 ![There's always a Super Hero in you.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221ebebc-b705-44eb-8d2c-a21cb3fc153f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c3a4b51-b004-49cd-9ca3-56272e1c3530.jpg)
