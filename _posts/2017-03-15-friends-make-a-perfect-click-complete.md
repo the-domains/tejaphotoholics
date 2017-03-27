@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Friends make a perfect click complete
-dateModified: '2017-03-22T22:03:10.000Z'
-datePublished: '2017-03-22T22:03:10.478Z'
+dateModified: '2017-03-27T15:35:12.991Z'
+datePublished: '2017-03-27T15:35:13.410Z'
 title: ''
 author: []
 publisher: {}
@@ -15,6 +15,7 @@ url: friends-make-a-perfect-click-complete/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eed216d7-44f3-4bfb-bc82-c67b544afe8a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/181cda0c-e85d-4fed-ae69-fe5511398d1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0628c66e-0c19-4e3c-bac8-e8d649afda57.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8813b51-5686-475c-abaf-c00b73369bca.jpg)
