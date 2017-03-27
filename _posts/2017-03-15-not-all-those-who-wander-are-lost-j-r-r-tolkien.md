@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: “Not all those who wander are lost.” — J. R. R. Tolkien
-dateModified: '2017-03-27T15:42:11.351Z'
-datePublished: '2017-03-27T15:42:11.745Z'
+dateModified: '2017-03-27T15:42:14.808Z'
+datePublished: '2017-03-27T15:42:15.636Z'
 title: ''
 author: []
 publisher: {}
