@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: “Not all those who wander are lost.” — J. R. R. Tolkien
-dateModified: '2017-03-27T16:07:54.378Z'
-datePublished: '2017-03-27T16:07:57.875Z'
-title: On a rainy afternoon
-author: []
 publisher: {}
+datePublished: '2017-03-28T05:02:25.407Z'
+dateModified: '2017-03-28T05:02:23.092Z'
+description: “Not all those who wander are lost.” — J. R. R. Tolkien
 via: {}
-hasPage: true
 sourcePath: _posts/2017-03-15-not-all-those-who-wander-are-lost-j-r-r-tolkien.md
+title: On a rainy afternoon
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-27T16:07:57.875Z'
 url: on-a-rainy-afternoon/index.html
