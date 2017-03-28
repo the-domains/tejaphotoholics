@@ -1,23 +1,23 @@
 ---
 inFeed: false
 description: “Not all those who wander are lost.” — J. R. R. Tolkien
-dateModified: '2017-03-28T16:55:31.798Z'
-datePublished: '2017-03-28T16:55:36.482Z'
-title: On a rainy afternoon
+dateModified: '2017-03-28T16:57:56.663Z'
+datePublished: '2017-03-28T16:57:57.428Z'
+title: Light Painting
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-03-15-not-all-those-who-wander-are-lost-j-r-r-tolkien.md
 starred: false
-datePublishedOriginal: '2017-03-28T16:55:36.482Z'
+datePublishedOriginal: '2017-03-28T16:57:56.155Z'
 url: on-a-rainy-afternoon/index.html
 _type: Blurb
 
 ---
-![While others watch it rain.. I feel it.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59df9333-ea73-4dec-acd9-a461c93208be.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e140dba-119e-4d7f-af5e-e30a2f26bf2a.jpg)
 ![There's always a Super Hero in you.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221ebebc-b705-44eb-8d2c-a21cb3fc153f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59df9333-ea73-4dec-acd9-a461c93208be.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e140dba-119e-4d7f-af5e-e30a2f26bf2a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c3a4b51-b004-49cd-9ca3-56272e1c3530.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6633cb-4396-45fe-a0d1-9126f34b9dd1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/689d7968-764a-4740-961c-9c5fd59c0e8f.jpg)
