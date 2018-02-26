@@ -1,3 +1,16 @@
+layout_spectrum: 0.8511355611749252
+typography_spectrum: 0.9588041170182093
+color:
+  lightness: 0.22737194709092526
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  saturation: 0.3436456086165687
+  brandStrength: 0.627690769631766
+  rhythmicContrast: 0.6351390977488776
 name: TejaPhotoholics
 analytics: {}
 purpose:
@@ -29,30 +42,17 @@ collections:
       number: 10
 content: []
 navigation:
-  - id: dc284739-50df-408c-8208-764c8123a64b
-    name: Travel Diaries
+  - name: Travel Diaries
+    id: dc284739-50df-408c-8208-764c8123a64b
     type: content
-  - id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
-    name: Wedding Moments
+  - name: Wedding Moments
+    id: eb0ebed9-ff3b-434a-b48c-7d1b6c759ea4
     type: content
-  - id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
-    name: Life around me
+  - name: Life around me
+    id: c0da1fd2-8c63-4ec7-99ae-1b568249a5f0
     type: content
-layout_spectrum: 0.7859869328080354
-color:
-  lightness: 0.4303736986580425
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-  saturation: 0.4909131738270568
-  brandStrength: 0.2392098309686131
-  rhythmicContrast: 0.9270435599778954
 content_rating:
   adult: false
-typography_spectrum: 0.376801264750135
 opengraph: {}
 title: Teja Photoholics
 url: 'http://teamtejaphotoholics.com/'
