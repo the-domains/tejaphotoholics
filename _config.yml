@@ -1,16 +1,16 @@
-layout_spectrum: 0.8511355611749252
-typography_spectrum: 0.9588041170182093
+layout_spectrum: 0.8547013567654544
+typography_spectrum: 0.26241904454029136
 color:
-  lightness: 0.22737194709092526
+  lightness: 0.10543626788588666
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-  saturation: 0.3436456086165687
-  brandStrength: 0.627690769631766
-  rhythmicContrast: 0.6351390977488776
+  saturation: 0.522139136324277
+  brandStrength: 0.9511691472603764
+  rhythmicContrast: 0.5007725995803934
 name: TejaPhotoholics
 analytics: {}
 purpose:
